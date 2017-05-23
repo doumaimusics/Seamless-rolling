@@ -1,0 +1,25 @@
+* {
+  padding: 0;
+  margin: 0;
+  list-style-type: none; }
+
+img {
+  border: none; }
+
+.box {
+  width: 360px;
+  height: auto;
+  margin: 20px auto;
+  background: #EEFAF0; }
+  .box .innerarea {
+    width: 100%;
+    height: 1160px;
+    overflow: hidden; }
+    .box .innerarea .img-box {
+      width: 320px;
+      margin: 0 auto;
+      padding-top: 20px; }
+      .box .innerarea .img-box li {
+        width: 320px;
+        height: 240px;
+        margin-bottom: 20px; }
